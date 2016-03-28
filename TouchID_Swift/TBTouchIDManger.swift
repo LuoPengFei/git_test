@@ -28,7 +28,7 @@ class TBTouchIDManger: NSObject {
         
         return Static.instance!
     }
-    
+    // 这只是一行注释
     
     /// 是否支持Touch id
     internal func isSupportTouchID() -> Bool {
